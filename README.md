@@ -1,2 +1,3 @@
 # 2026MayStirTrek
-About Speaker slides and resources from 2025 May Stir Trek
+
+Speaker slides and resources from 2026 May Stir Trek
