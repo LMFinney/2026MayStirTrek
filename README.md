@@ -9,7 +9,7 @@ All presentations were recorded and are (or will be!) available on the [Stir Tre
 *Add your sessions here, in alphabetical order by session title*
 
 <!-- - [Session Title (SpeakerName)](/talks/foldername/README.md) -->
-
+[Application Architecture Patterns](/talks/applicationarchitecture/README.md)
 [The Dark Side of Microservices](/talks/darksideofmicroservices/README.md)
 
 ## Stir Trek Reviews
